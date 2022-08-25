@@ -1,0 +1,14 @@
+.nav{
+  height: 50px;
+  background-color: antiquewhite;
+}
+.navbar {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: space-around;
+}
+.navlink{
+  text-decoration: none;
+  color: brown;
+}
