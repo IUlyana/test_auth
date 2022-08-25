@@ -1,0 +1,9 @@
+.authform{
+  display: flex; 
+  flex-direction: column; 
+  width: 40%;
+}
+.regfield{
+  display: flex;
+  flex-direction: column;
+}
